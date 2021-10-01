@@ -1,0 +1,1 @@
+Just practicing with JS canvas. Repeating video https://www.youtube.com/watch?v=S6T41AZXFys
